@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+Mode = 0 | Output =  1
+Mode = 1 | Output =  1
+Mode = 0 | Output =  1
+$finish called at time : 1 us : File "D:/Docs/Learning HCMUT/Logic design with HDL/Lab 4/Task_1/Task_1.srcs/sim_1/new/Task_1_TB.v" Line 36
