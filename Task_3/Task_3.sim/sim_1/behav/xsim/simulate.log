@@ -1,0 +1,20 @@
+Time resolution is 1 ps
+Time:                    0 ns | Buttons [Rst,L,R,P]: 1000 | FSM Mode internal: 00 | LED Out: 0011
+Time:                40000 ns | Buttons [Rst,L,R,P]: 0000 | FSM Mode internal: 00 | LED Out: 0011
+Time:                60000 ns | Buttons [Rst,L,R,P]: 0100 | FSM Mode internal: 00 | LED Out: 0011
+Time:                65000 ns | Buttons [Rst,L,R,P]: 0100 | FSM Mode internal: 01 | LED Out: 0011
+Time:                80000 ns | Buttons [Rst,L,R,P]: 0000 | FSM Mode internal: 01 | LED Out: 0011
+Time:                85000 ns | Buttons [Rst,L,R,P]: 0000 | FSM Mode internal: 01 | LED Out: 0110
+Time:               185000 ns | Buttons [Rst,L,R,P]: 0000 | FSM Mode internal: 01 | LED Out: 1100
+Time:               285000 ns | Buttons [Rst,L,R,P]: 0000 | FSM Mode internal: 01 | LED Out: 1001
+Time:               300000 ns | Buttons [Rst,L,R,P]: 0001 | FSM Mode internal: 01 | LED Out: 1001
+Time:               305000 ns | Buttons [Rst,L,R,P]: 0001 | FSM Mode internal: 00 | LED Out: 1001
+Time:               320000 ns | Buttons [Rst,L,R,P]: 0000 | FSM Mode internal: 00 | LED Out: 1001
+Time:               440000 ns | Buttons [Rst,L,R,P]: 0010 | FSM Mode internal: 00 | LED Out: 1001
+Time:               445000 ns | Buttons [Rst,L,R,P]: 0010 | FSM Mode internal: 10 | LED Out: 1001
+Time:               460000 ns | Buttons [Rst,L,R,P]: 0000 | FSM Mode internal: 10 | LED Out: 1001
+Time:               485000 ns | Buttons [Rst,L,R,P]: 0000 | FSM Mode internal: 10 | LED Out: 1100
+Time:               585000 ns | Buttons [Rst,L,R,P]: 0000 | FSM Mode internal: 10 | LED Out: 0110
+Time:               680000 ns | Buttons [Rst,L,R,P]: 1000 | FSM Mode internal: 00 | LED Out: 0011
+Time:               700000 ns | Buttons [Rst,L,R,P]: 0000 | FSM Mode internal: 00 | LED Out: 0011
+$finish called at time : 750 ns : File "D:/Docs/Learning HCMUT/Logic design with HDL/Lab 4/Task_3/Task_3.srcs/sim_1/new/Task_3_TB.v" Line 67

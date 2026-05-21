@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../../../../Vivado/2025.2/Vivado/data/rsb/busdef" \
+"../../../../Task_3.srcs/sources_1/new/Task_3.v" \
+"../../../../Task_3.srcs/sources_1/new/clock_divider.v" \
+"../../../../Task_3.srcs/sources_1/new/fsm_control.v" \
+"../../../../Task_3.srcs/sources_1/new/shift_reg.v" \
+"../../../../Task_3.srcs/sim_1/new/Task_3_TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
